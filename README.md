@@ -23,6 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+https://i.imgur.com/hswcUjD.gif
+
 <img src='https://i.imgur.com/hswcUjD.gif' title='SMC Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
