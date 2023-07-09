@@ -1,8 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Freckle+Face&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;700&display=swap');
 
 body {
-    font-family: 'Cabin';
-    background-color: #758190;
+    font-family: 'Fredoka', sans-serif;
+    background-color: #0C0813;
+    color: #807C85;
+    margin: 2% 4%;
+    font-size: 24px;
+}
+
+
+header, h1, h2 {
+    font-family: 'Freckle Face', cursive;
+    color: white;
+}
+
+h5 {
+    color: white;
+    font-size: 24px;
 }
 
 #tentacles {
@@ -11,36 +26,40 @@ body {
 
 .header {
     display: flex;
-    background-color: lightblue;
+    justify-content: space-between;
     padding: 1%;
     align-items: center;
     margin-left: -10px;
     margin-right: -10px;
-    margin-top: -10px;
 }
 
 .stats-container {
     display: flex;
     align-items: stretch;
+    background-color: transparent;
+    border-radius: 32px;
+
 
 }
 
 .stats-container:hover {
     cursor: pointer;
-    box-shadow: 0 0 30px lightblue;
+    box-shadow: 0 0 30px #6842FE;
 }
 
 .stats-card {
     background-color: #a8b0bc;
-    border-radius: 7px;
+    border-radius: 16px;
     padding: 1%;
     margin: 1%;
     width: 100%;
     text-align: center;
+    color: white;
 }
 
 #num-contributions, #total-raised, #num-games {
-    font-size: 50px;
+    font-size: 70px;
+    font-weight: 600;
 }
 
 #games-container {
@@ -51,26 +70,28 @@ body {
 
 .game-img {
     width: 100%;
-    border-radius: 5px;
-    box-shadow: 0 0 10px #FFFFFF;
+    border-radius: 16px;
+    /* box-shadow: 0 0 10px #FFFFFF; */
 }
 
 .game-card {
-    background-color: #FFFFFF;
+    background-color: #1A1820;
     padding: 1%;
     margin: 1%;
     width: 300px;
     text-align: center;
-    border-radius: 7px;
+    border-radius: 16px;
+    padding-top: 20px;
 }
 
 .game-card:hover {
     cursor: pointer;
-    box-shadow: 0 0 30px lightblue;
+    box-shadow: 0 0 30px #6842FE;
 }
 
 #button-container {
     text-align: center;
+    padding-bottom: 40px;
 }
 
 button {
@@ -80,3 +101,130 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+/* Custom styles added */
+.brand {
+    display: flex;
+    align-items: center;
+    border: solid 3px #6842FE;
+    border-radius: 16px;
+    text-transform: uppercase;
+    font-size: 15px;
+    -webkit-text-stroke: 1px #6842FE;
+    padding-top: 0px;
+}
+
+.brand h1{
+    color: #6842FE;
+}
+
+#tentacles {
+    padding-left: 10px;
+    max-width: 35px;
+}
+
+.header-text{
+  padding-left: 5px;
+  padding-right: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li a{
+    padding-left: 30px;
+    color: white;
+    text-decoration: none;
+
+}
+
+nav a:hover, nav a:focus, nav a:active {
+    color: #6842FE;
+}
+
+#cover-text {
+    font-size: 70px;
+    text-transform: uppercase;
+    margin-top: 0px;
+    margin-right: 30%;
+    margin-left: 30%;
+    background: linear-gradient(to right, #ff611e, #f21740, #8D15C3, #4B56EB, #10DBC5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#cover-text-intro {
+    margin-bottom: 0px;
+}
+
+#description-container {
+    padding-top: 11%;
+    padding-bottom: 6.5%;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#section-container {
+    padding-bottom: 6.5%;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.text-highlight {
+    color: white;
+}
+
+.section-heading-text {
+    padding-top: 6.5%;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 48px;
+}
+
+#stats-red {
+    background-color: #F21740 ;
+}
+
+#stats-orange {
+    background-color: #FF611E ;
+}
+
+#stats-blue {
+    background-color: #4B56EB ;
+}
+
+#first-game {
+    background-color: #8D15C3 ;
+}
+
+#second-game {
+    background-color: #10DBC5 ;
+}
+
+#games-section {
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+#games-text-intro {
+    margin-top: 0px;
+    text-align: center;
+}
+
+#button-container button {
+    background-color: #6842FE;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 20px;
+    color: white;
+    border-radius: 100px;
+}
+ 
