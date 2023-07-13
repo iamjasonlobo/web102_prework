@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 
 https://i.imgur.com/hswcUjD.gif
 
-<img src='https://i.imgur.com/hswcUjD.mp4' title='SMC Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Fkj8hP2.mp4' title='SMC Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
