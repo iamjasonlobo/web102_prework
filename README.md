@@ -22,8 +22,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+https://github.com/iamjasonlobo/web102_prework/assets/105331420/d4e58039-0f0a-4ecf-81a4-5af13fc13c3d
 
-https://github.com/iamjasonlobo/web102_prework/assets/105331420/31c00a7c-b9f0-4402-8a63-7548b1d69667
 
 ## Notes
 
