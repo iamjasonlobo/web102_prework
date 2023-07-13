@@ -24,10 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 https://i.imgur.com/hswcUjD.gif
-
-https://i.imgur.com/Fkj8hP2.mp4
-
-<img src='https://i.imgur.com/Fkj8hP2.mp4' title='SMC Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/iamjasonlobo/web102_prework/assets/105331420/31c00a7c-b9f0-4402-8a63-7548b1d69667
 
 ## Notes
 
