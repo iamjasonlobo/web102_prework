@@ -10,6 +10,7 @@ The following **required** functionality are present in the website:
 
 ## Video Walkthrough
 Here's a walkthrough of implemented features:
+
 https://github.com/iamjasonlobo/web102_prework/assets/105331420/d4e58039-0f0a-4ecf-81a4-5af13fc13c3d
 
 
