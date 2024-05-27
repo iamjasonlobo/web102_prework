@@ -1,8 +1,6 @@
 # *SMC - Sea Monster Crowdfunding*
 **SMC** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **4** hours spent in total
-
 ## Features
 The following **required** functionality are present in the website:
 * [x] The introduction section explains the background of the company and how many games remain unfunded.
